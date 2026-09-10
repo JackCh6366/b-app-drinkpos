@@ -1,0 +1,8 @@
+{
+  "name": "Remix DrinkOrder POS",
+  "description": "A streamlined drink ordering system featuring custom form generation, inventory tracking, order management, and integrated customer CRM tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
